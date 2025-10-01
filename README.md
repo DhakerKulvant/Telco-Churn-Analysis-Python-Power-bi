@@ -145,9 +145,6 @@ Telco-Churn-Analysis/
 │   ├── churnbygender.jpg
 │   └── ChurnAnalysisDashboard.jpg
 │
-├── reports/
-│   └── Teco-Customer-Churn-Analysis.pdf
-│
 └── README.md
 ```
 
