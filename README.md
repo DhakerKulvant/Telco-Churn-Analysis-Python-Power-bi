@@ -39,7 +39,7 @@ The dataset contains **7,043 customer records** with **21 features** including:
 ## 📊 Key Analysis & Insights
 
 ### **📈 Interactive Dashboard Overview**
-![Customer Churn Analysis Dashboard](ChurnAnalysisDashboard.jpg)
+![Customer Churn Analysis Dashboard](images/ChurnAnalysisDashboard.jpg)
 
 **Dashboard Key Metrics:**
 - **Churn Rate**: 26.54% (1,869 out of 7,043 customers)
@@ -49,7 +49,7 @@ The dataset contains **7,043 customer records** with **21 features** including:
 - **Average Tenure**: 32.37 months
 
 ### **💳 Churn by Payment Method Analysis**
-![Churned Customers by Payment Method](ChurnbyPayment.jpg)
+![Churned Customers by Payment Method](images/ChurnbyPayment.jpg)
 
 **Payment Method Insights:**
 - **Electronic Check**: Highest churn count (~1,071 customers)
@@ -60,7 +60,7 @@ The dataset contains **7,043 customer records** with **21 features** including:
 **Key Finding**: Electronic check users represent the highest risk group, suggesting payment convenience and reliability issues.
 
 ### **👴 Churn by Senior Citizen Status**
-![Churn by Senior Citizen](ChurnSeniorCitizenBar.jpg)
+![Churn by Senior Citizen](images/ChurnSeniorCitizenBar.jpg)
 
 **Senior Citizen Analysis:**
 - **Senior Citizens**: **41.7% churn rate** (significantly higher)
@@ -70,7 +70,7 @@ The dataset contains **7,043 customer records** with **21 features** including:
 **Key Finding**: Age demographics significantly impact customer retention, with senior customers requiring specialized attention.
 
 ### **👥 Churn by Gender Distribution**
-![Churn by Gender](churnbygender.jpg)
+![Churn by Gender](images/churnbygender.jpg)
 
 **Gender-Based Insights:**
 - **Female Customers**: ~930 churned (49.76% of total churn)
