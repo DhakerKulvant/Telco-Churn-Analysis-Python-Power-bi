@@ -10,12 +10,6 @@ The dataset contains **7,043 customer records** with comprehensive information a
 
 ## 🛠️ Technologies Used
 
-### **Data Analysis & Processing**
-- **Python** - Core programming language for data analysis
-- **Pandas** - Data manipulation, cleaning, and preprocessing
-- **NumPy** - Numerical computations and statistical operations
-- **Jupyter Notebook** - Interactive development environment for EDA
-
 ### **Data Visualization & Dashboards**
 - **Power BI** - Interactive dashboard creation and business intelligence
 - **DAX (Data Analysis Expressions)** - Advanced calculations and measures in Power BI
@@ -23,9 +17,12 @@ The dataset contains **7,043 customer records** with comprehensive information a
 - **Seaborn** - Advanced statistical data visualization
 
 ### **Statistical Analysis**
-- **Python Statistical Libraries** - Correlation analysis, hypothesis testing
+- **Python Statistical Libraries** - Correlation analysis
 - **Data Profiling** - Understanding data distributions and patterns
 - **Exploratory Data Analysis (EDA)** - Comprehensive data exploration and insights
+- **Pandas** - Data manipulation, cleaning, and preprocessing
+- **NumPy** - Numerical computations and statistical operations
+- **Jupyter Notebook** - Interactive development environment for EDA
 
 ## 🗂️ Dataset
 
