@@ -145,6 +145,9 @@ Telco-Churn-Analysis/
 │   ├── churnbygender.jpg
 │   └── ChurnAnalysisDashboard.jpg
 │
+├── dashboard/
+│   ├── Customer_churn_Analysis.pbix
+│
 └── README.md
 ```
 
